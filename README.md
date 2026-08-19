@@ -1,7 +1,8 @@
 # Solidworks
-# SolidWorks Project
 
 This repository contains SolidWorks CAD models and assemblies created as part of the project.
+
+I have created different solidworks models which covers different secetions.
 
 ## Files
 
